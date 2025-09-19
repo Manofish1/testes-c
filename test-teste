@@ -1,0 +1,23 @@
+\\nota errada: usar o GDBonlibe quando nao tiver com o vs code em mãos
+
+#include <stdio.h>
+
+int main();
+
+	int opçao;
+
+	printf("|----------opções----------|");
+	printf("|1.operações básicas\n    |");
+	printf("|2.codigo da media\n       |");
+	printf("|3.antecessor e sucessor\n |");
+	printf("|4.potenciação\n           |");
+	printf("|-----escolha uma opção----|");
+
+scanf("%d, &opção");
+
+switch (opção) {
+case 1:
+print("você escolheu a opção 1.operações básicas\n");
+break;
+
+return 0;
