@@ -1,2 +1,1 @@
-# testes-c
-t
+testes feitos em c 
